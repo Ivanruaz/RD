@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(104, 92, 92, 0.808);
+    margin: 0;
+    font-family: "Montserrat Regular", sans-serif;
+    background-size: cover;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.toh2 {
+    text-align: center;
+    color: maroon;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.count {
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px 55px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.downheader {
+    text-align: center;
+}
